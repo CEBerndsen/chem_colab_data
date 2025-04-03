@@ -27,7 +27,9 @@ Intro to Python <a target="_blank" href="https://colab.research.google.com/githu
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Data visualization in Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/CEBerndsen/chem_colab_data/blob/main/python_colabs/python_data_viz.ipynb)
+Data visualization in Python <a target="_blank" href="https://colab.research.google.com/github/CEBerndsen/chem_colab_data/blob/main/python_colabs/python_data_viz.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Curve Fitting in Python <a target="_blank" href="https://colab.research.google.com/github/CEBerndsen/chem_colab_data/blob/main/python_colabs/python_curve_fitting.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -39,7 +41,7 @@ The use of some notebooks has been described in Berndsen, C. E.; Gupta, S. Hidin
 
 ## Acknowledgements
 
-Grateful to the National Science Foundation, the [MDH CUREs Community](https://www.mdhcures.org/), and [PyBMB](https://sites.wabash.edu/pybmb/) for feedback, infrastructure, support.
+We are grateful to the National Science Foundation, the [MDH CUREs Community](https://www.mdhcures.org/), and [PyBMB](https://sites.wabash.edu/pybmb/) for feedback, infrastructure, support.
 
 All Colabs are a product of members of the Berndsen lab at JMU, though some notebooks have been adapted from other sources. Please see the information in the notebook for those sources.
 
